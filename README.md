@@ -1,5 +1,8 @@
 RNews- daily-Live-News
 
+Live Demo video:
+https://res.cloudinary.com/dsxyzdqvo/video/upload/v1678466378/Untitled_video_-_Made_with_Clipchamp_1_q9e6lh.mp4
+
 A React and NewsApi based web app which is a news app.
 
 * This is a News website designed using html,css and ReactJs.
